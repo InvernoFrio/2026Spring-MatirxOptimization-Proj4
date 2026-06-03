@@ -1,0 +1,3 @@
+model,train_samples,test_samples,training_seconds,test_accuracy,support_vectors
+linear_pegasos,900,300,0.02726170000005368,0.85,
+rbf_kernel_smo,900,300,0.8450361000004705,0.9933333333333333,65

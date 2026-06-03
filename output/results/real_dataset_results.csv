@@ -1,0 +1,2 @@
+dataset,train_samples,test_samples,features,positive_rate,epochs,batch_size,lambda,training_seconds,test_accuracy,final_objective,train_sample_accuracy
+rcv1_CCAT,50000,10000,47236,0.47406,5,512,0.0001,0.40958690000024944,0.5382,3.0225989843710144,0.5322
